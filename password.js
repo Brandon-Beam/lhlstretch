@@ -19,4 +19,4 @@ const password = (str) => {
   } console.log(newWord)
 }
 
-password('ae0l')
+password('aeol')
